@@ -1,2 +1,2 @@
 # Pong
-Color pong with ANN ai
+A pong game with an AI powered by Neural Networks. Not that the approach used for the AI not ideal as the learning is supervised and the "correct answer" for the AI to solve is programmed in as the dataset that is being trained on. The AI was mainly added in order to experiment with the concept of neural networks, and the pong game itself had been completed much prior to the addition of the AI. 
